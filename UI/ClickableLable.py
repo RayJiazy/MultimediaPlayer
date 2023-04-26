@@ -1,6 +1,6 @@
 from PyQt5.QtWidgets import QApplication, QMainWindow, QVBoxLayout, QWidget, QLabel
 from PyQt5.QtCore import Qt
-
+import cv2
 def find_main_window(widget):
     while widget.parent() is not None:
         widget = widget.parent()
@@ -46,6 +46,10 @@ class ClickableLabel(QLabel):
                                                            main_window.subshot_idx].start_frame, \
                                                        main_window.scenes[main_window.scene_idx].shots[main_window.shot_idx].subshots[
                                                            main_window.subshot_idx].end_frame
+                main_window.cap.set(cv2.CAP_PROP_POS_FRAMES, main_window.start_frame)
+                ret, frame = main_window.cap.read()
+                frame = cv2.resize(frame, (main_window.width, main_window.height))
+                main_window.show_frame(frame)
             else:
                 main_window.selected_label = None
                 self.setStyleSheet("")
