@@ -1,5 +1,13 @@
 # MultimediaPlayer
-A multimedia player, which can divide the video and audio according to the scene,shot and subshot.
+A multimedia player, which can divide the video and audio according to the scene,shot and subshot. Users can play or pause the specified segment through interaction.
+
+For the projects developed by the team, the contributors are not only me but also :
+
+[@PeijieXu](https://github.com/PeijieXu)
+
+[@JasonGuojz](https://github.com/JasonGuojz)
+
+[@ChengweiZhou](https://github.com/ChengwZhou)
 
 ## Introduction
 **Scene**: a group of shots with a context eg, all shots in the “apartment” room, or all shots in the “garden” scene. All the shots in a scene 
@@ -25,7 +33,7 @@ As the video plays continuously, the highlighted segment selection (scene, seque
 
 ![image](https://github.com/RayJiazy/MultimediaPlayer/blob/main/src/Effect.gif)   
 
-## Instructions
+## Instruction
 python playvideo.py InputVideo.rgb InputAudio.wav
 
 *InputVideo.rgb*: the input video
