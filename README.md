@@ -29,6 +29,7 @@ As the video plays continuously, the highlighted segment selection (scene, seque
 python playvideo.py InputVideo.rgb InputAudio.wav
 
 *InputVideo.rgb*: the input video
+
 *InputAudio.wav*: the input audio
 
 ## Environment
@@ -43,5 +44,7 @@ python playvideo.py InputVideo.rgb InputAudio.wav
 ```
 ## Reference
 [1] A. Massoudi, F. Lefebvre, C. . -h. Demarty, L. Oisel and B. Chupeau, "A Video Fingerprint Based on Visual Digest and Local Fingerprints," 2006 International Conference on Image Processing, Atlanta, GA, USA, 2006, pp. 2297-2300, doi: 10.1109/ICIP.2006.312834.
+
 [2] [https://blog.csdn.net/wjpwjpwjp0831/article/details/118424311](https://blog.csdn.net/wjpwjpwjp0831/article/details/118424311)
+
 [3] [https://github.com/Greedysky/TTKWidgetTools](https://github.com/Greedysky/TTKWidgetTools)
