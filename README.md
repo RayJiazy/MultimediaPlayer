@@ -29,7 +29,7 @@ a shot may consists of times when the motion or slow or no motion, and times whe
 
 **Stop Button**: Stop the video and go back to the first frame of the specified segment
 
-As the video plays continuously, the highlighted segment selection (scene, sequence, shot) should correspondingly update.
+*As the video plays continuously, the highlighted segment selection (scene, sequence, shot) should correspondingly update.*
 
 ## Demo
 
