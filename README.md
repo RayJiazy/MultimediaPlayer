@@ -11,10 +11,14 @@ A multimedia player, which can divide the video and audio according to the scene
 a shot may consists of times when the motion or slow or no motion, and times when the motion is high - these could serve as separate subshots.
 
 ## Interaction
-**Selective Segment**: Select the specified segment
-**Play Button**: Play the selected segment
+**Selective Segment**: Select the specified segment, the selected segment will be highlighted
+
+**Play Button**: Play from the selected segment
+
 **Paus Button**: Pause the video
+
 **Stop Button**: Stop the video and go back to the first frame of the specified segment
 
+As the video plays continuously, the highlighted segment selection (scene, sequence, shot) should correspondingly update.
 ## Demo
 ![image](https://github.com/RayJiazy/MultimediaPlayer/blob/main/src/Effect.gif)   
