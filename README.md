@@ -1,5 +1,6 @@
 # MultimediaPlayer
 A multimedia player, which can divide the video and audio according to the scene,shot and subshot. 
+
 Users can play or pause the specified segment through interaction.
 
 For the projects developed by the team, the contributors are not only me but also :
