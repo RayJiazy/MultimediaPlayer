@@ -33,7 +33,7 @@ a shot may consists of times when the motion or slow or no motion, and times whe
 
 ## Demo
 
-![image](https://github.com/RayJiazy/MultimediaPlayer/blob/main/images/demo.gif))   
+![image](https://github.com/RayJiazy/MultimediaPlayer/blob/main/images/demo.gif)   
 
 ## Instruction
 ```
