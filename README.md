@@ -25,7 +25,7 @@ a shot may consists of times when the motion or slow or no motion, and times whe
 
 **Play Button**: Play from the selected segment
 
-**Paus Button**: Pause the video
+**Pause Button**: Pause the video
 
 **Stop Button**: Stop the video and go back to the first frame of the specified segment
 
