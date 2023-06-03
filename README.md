@@ -5,11 +5,11 @@ Users can play or pause the specified segment through interaction.
 
 For the projects developed by the team, the contributors are not only me but also :
 
-[@PeijieXu](https://github.com/PeijieXu)
+[@ChengweiZhou](https://github.com/ChengwZhou)
 
 [@JasonGuojz](https://github.com/JasonGuojz)
 
-[@ChengweiZhou](https://github.com/ChengwZhou)
+[@PeijieXu](https://github.com/PeijieXu)
 
 ## Introduction
 **Scene**: a group of shots with a context eg, all shots in the “apartment” room, or all shots in the “garden” scene. All the shots in a scene 
@@ -33,7 +33,7 @@ a shot may consists of times when the motion or slow or no motion, and times whe
 
 ## Demo
 
-![image](https://github.com/RayJiazy/MultimediaPlayer/blob/main/src/Effect.gif)   
+![image](https://github.com/RayJiazy/MultimediaPlayer/blob/main/images/demo.gif))   
 
 ## Instruction
 ```
