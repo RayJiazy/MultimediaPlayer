@@ -36,14 +36,14 @@ a shot may consists of times when the motion or slow or no motion, and times whe
 ![image](https://github.com/RayJiazy/MultimediaPlayer/blob/main/src/Effect.gif)   
 
 ## Instruction
+```
 python playvideo.py InputVideo.rgb InputAudio.wav
-
+```
 *InputVideo.rgb*: the input video
 
 *InputAudio.wav*: the input audio
 
 ## Environment
-```
 * Pytorch
 * PyQt5
 * Scipy
@@ -51,7 +51,7 @@ python playvideo.py InputVideo.rgb InputAudio.wav
 * Huggingface
 * dotenv
 * matplotlib
-```
+
 ## Reference
 [1] A. Massoudi, F. Lefebvre, C. . -h. Demarty, L. Oisel and B. Chupeau, "A Video Fingerprint Based on Visual Digest and Local Fingerprints," 2006 International Conference on Image Processing, Atlanta, GA, USA, 2006, pp. 2297-2300, doi: 10.1109/ICIP.2006.312834.
 
